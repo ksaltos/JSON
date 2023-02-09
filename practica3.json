@@ -1,0 +1,15 @@
+{
+    "Nombres":"Lionel Andrés",
+    "Apellidos":"Messi Cuccittini",
+    "Fecha de Nacimiento":"24-06-1987" ,
+    "Edad":35,
+    "País de Nacimineto":"Argentina",
+    "Ciudad":"Rosario",
+    "Profesion":"Futbolista",
+    "Equipos":["Newell's Old Boys", "FC Barcelona", "París Saint-Germanin"],
+    "Posición":"Delantero",
+    "Nacionalidad":"Aregentino",
+    "Estado Civil":"Casado",
+    "Numero de Hijos":3,
+    "Balones de Oro":7
+}

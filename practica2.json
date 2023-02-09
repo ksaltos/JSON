@@ -1,0 +1,17 @@
+{
+    "Nombres":"Maite Mariuxi",
+    "Apellidos":"Velazquez Moreira",
+    "Fecha de Nacimiento":"11-05-2003" ,
+    "Edad":19,
+    "País de Nacimineto":"Ecuador",
+    "Ciudad":"Portoviejo,Manabí",
+    "Carrera que cursa":"Odontologia",
+    "Nivel de carrera":"Segundo Nivel",
+    "Tipo de Sangre":"O+",
+    "Nacionalidad":"Ecuatoriana",
+    "Mascotas":["1 Perros", "1 Gato", "1 Loro"],
+    "Antecedentes criminales":"Ninguno",
+    "Alergias":"Ninguna",
+    "Discapacidades": "Ninguna",
+    "Estado Civil":"Soltera"
+}
